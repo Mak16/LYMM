@@ -9,22 +9,22 @@ const Nav = () => {
     {
       name: "Nos Services",
       link: "LYMM/services",
-      className: "md:py-4 md:px-5 flex self-center  px-4 py-2",
+      className: "md:py-4 md:px-5 flex self-center text-[#C69C59]  px-4 py-2",
     },
     {
       name: "Tarifs",
       link: "LYMM/tarifs",
-      className: "md:py-4 md:px-5 flex self-center  px-4 py-2",
+      className: "md:py-4 md:px-5 flex self-center text-[#C69C59]  px-4 py-2",
     },
     {
       name: "Notre Mission",
       link: "LYMM/mission",
-      className: "md:py-4 md:px-5 flex self-center  px-4 py-2",
+      className: "md:py-4 md:px-5 flex self-center text-[#C69C59] px-4 py-2",
     },
     {
       name: "Ressources",
       link: "/LYMM/ressources",
-      className: "md:py-4 md:px-5 flex self-center  px-4 py-2",
+      className: "md:py-4 md:px-5 flex self-center text-[#C69C59]  px-4 py-2",
     },
     {
       name: "Nous contacter",
